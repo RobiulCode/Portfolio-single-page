@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.top-section {
+  background: url(images/top-banner.png);
+  height: 500px;
+}
+.half-width {
+  width: 40%;
+  float: left;
+}
+.half-width img {
+  width: 100%;
+}
+.highlight-text {
+  color: orange;
+}
