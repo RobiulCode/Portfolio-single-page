@@ -5,6 +5,9 @@ body {
 h1 {
   font-size: 50px;
 }
+section {
+  height: 500px;
+}
 .highlight-text {
   color: orange;
   font-family: "Grechen Fuemen", cursive;
@@ -21,7 +24,6 @@ h1 {
 }
 .top-banner {
   background-image: url(images/top-banner.png);
-  height: 500px;
   background-repeat: no-repeat;
 }
 .link-button {
@@ -34,4 +36,18 @@ h1 {
 }
 h2 {
   font-size: 40px;
+}
+.derem-banner {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.experience {
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+}
+.single-experience {
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 5px;
+  height: 60%;
 }
