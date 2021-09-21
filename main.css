@@ -50,4 +50,18 @@ h2 {
   box-shadow: 10px 10px 40px gray;
   border-radius: 5px;
   height: 60%;
+  background: white;
+}
+#Full-stack {
+  border-left: 7px solid;
+  border-image: linear-gradient(180deg, lightsalmon, tomato);
+  border-image-slice: 1;
+}
+#learn-web {
+  border-left: 7px solid;
+  border-image: linear-gradient(180deg, blue, cyan);
+  border-image-slice: 1;
+}
+footer p {
+  text-align: center;
 }
